@@ -12,7 +12,7 @@ Work in progress:
 
 
 <p float="left">
-  <img src="https://github.com/MattH688/hemocytometerMATLAB/blob/main/ExampleData/75ulI/20190918_113157.jpg" height="500">
-  <img src="https://github.com/MattH688/hemocytometerMATLAB/blob/main/ExampleData/75ulI/20190918_113157.png" height="500">
+  <img src="https://github.com/MattH688/hemocytometerMATLAB/blob/main/ExampleData/75ulI/20190918_113157.jpg" height="450">
+  <img src="https://github.com/MattH688/hemocytometerMATLAB/blob/main/ExampleData/75ulI/20190918_113157.png" height="450">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hemocytometer.jpg" height="500">
 </p>
