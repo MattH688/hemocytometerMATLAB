@@ -5,6 +5,12 @@ The `hemocytometerMain` program is ran from the MATLAB command prompt which call
 
 Work in progress:
 
-* Finialisation of the MATLAB code
+* Finialisation of the MATLAB code - Known error `.png` is rotated anti-clockwise, 90 degrees during processing.
 * Wiki on changable values for optimising cell detection by manipulating ROI
-* Adding examples for testing
+* ~~Adding examples for testing~~ 
+
+
+<p float="left">
+  <img src="https://github.com/MattH688/hemocytometerMATLAB/blob/main/ExampleData/75ulI/20190918_113157.jpg" height="500">
+  <img src="https://github.com/MattH688/hemocytometerMATLAB/blob/main/ExampleData/75ulI/20190918_113157.png" height="500">
+</p>
